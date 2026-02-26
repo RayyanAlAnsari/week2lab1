@@ -1,0 +1,29 @@
+
+
+.heading {
+margin-bottom: 20px;
+}
+
+.quantity-text {
+margin-bottom: 20px;
+}
+
+.buttons > *:not(:last-child) {
+margin-right: 5px;
+}
+
+.button {
+display: block;
+text-decoration: none;
+font-size: 13px;
+font-weight: 700x;
+color: #0a0909;
+border-radius: 100px;
+padding: 10px 15px;
+cursor: pointer;
+min-width: 50px;
+}
+
+.button:hover {
+background-color: #fff;
+}
